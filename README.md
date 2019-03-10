@@ -3,9 +3,9 @@ Come aboard to learn Dev Ops! We will start learning by doing. This project is t
 
 ***
 ## Dev Ops Tool Belt (In progress):
-| Containers| Configuration Management | Web Server| Infra Provisioning | Infra Monitoring  | Log Management | CI/CD|
-| --------- |:------------------------:|:---------:|:------------------:|:-----------------:| :--------------:|-----:|
-| Docker    | Ansible                  | Apache             | Terraform |          ????     | ??????         | Jenkins|
+| Containers| Configuration Management | Web Server         | Infra     |       Monitoring  | Log Management | CI/CD  |
+| --------- |:------------------------:|:------------------:|:---------:|:-----------------:| :-------------:|-------:|
+| Docker    | Ansible                  | Apache             | Terraform |        Prometheus |            ELK | Jenkins|
 | Kubernetes| Salt                     | Python Simple Http |           |                   |                |        |
 |           | Puppet                   | NGINX              |           |                   |                |        |        
 ## Personal Goals:
@@ -24,7 +24,7 @@ Come aboard to learn Dev Ops! We will start learning by doing. This project is t
 ## Discussions
 Once more people join I will create a chat room and weekly scrum calls!
 
-## News 
+## News
 Nothing newsworthy yet!
 ## Suggestions
 Please contact LuishXY for questions, concerns, suggestions etc.
